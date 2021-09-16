@@ -18,7 +18,7 @@ Automotive cyber security test interface according to UNECE R155 and related oth
 
 # Supported Interfaces and Protocols
 
-|       # |CAN      |CANFD       |UDS          |CCP          |XCP          |
+|      ## |CAN      |CANFD       |UDS          |CCP          |XCP          |
 |---------|---------|------------|-------------|-------------|-------------|
 |Peak-USB |  TBD       |    TBD        |    TBD         |    TBD         |    TBD         |
 |VECTOR   |  TBD       |     TBD       |    TBD         |     TBD        |    TBD         |
