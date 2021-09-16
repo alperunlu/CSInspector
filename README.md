@@ -20,5 +20,5 @@ Automotive cyber security test interface according to UNECE R155 and related oth
 
 |       # |CAN      |CANFD       |UDS          |CCP          |XCP          |
 |---------|---------|------------|-------------|-------------|-------------|
-|Peak-USB |         |            |             |             |             |
-|VECTOR   |         |            |             |             |             |
+|Peak-USB |  TBD       |    TBD        |    TBD         |    TBD         |    TBD         |
+|VECTOR   |  TBD       |     TBD       |    TBD         |     TBD        |    TBD         |
