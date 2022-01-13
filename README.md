@@ -12,7 +12,7 @@ Automotive cyber security test interface according to UNECE R155 and related oth
 
 # Implemented Standards
 
-|     ##         |SAE J3061     |ISO 21434    |ISO 27001      |ISO 15408    |ECE WP29       |
+|     ##         |SAE J3061     |ISO 21434    |ISO 27001      |ISO 15408    |ECE R155/R156  |
 |----------------|--------------|-------------|---------------|-------------|---------------|
 |Implemented     |TBD           |TBD          |TBD            |TBD          |TBD            |
 
